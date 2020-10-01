@@ -1,0 +1,20 @@
+0:
+  device_name: cisco3
+  hostname: cisco3.lasthop.io
+  password: PASSWORD
+  username: pyclass
+1:
+  device_name: arista1
+  hostname: arista1.lasthop.io
+  password: PASSWORD
+  username: pyclass
+2:
+  device_name: srx2
+  hostname: srx2.lasthop.io
+  password: PASSWORD
+  username: pyclass
+3:
+  device_name: nxos1
+  hostname: nxos1.lasthop.io
+  password: PASSWORD
+  username: pyclass
